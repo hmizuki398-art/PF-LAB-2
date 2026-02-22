@@ -1,0 +1,17 @@
+include<iostream>
+using namespace std;
+int main()
+{
+cout<<"+--*-------------- ------- ------,--------*-,  "<<endl;
+cout<<" | |||||||||||||  ',-----',      |           0 "<<endl;
+cout<<" '+------------------------------*-----------| "<<endl;
+cout<<"  ',-------,----------,--------------------'   "<<endl;
+cout<<"     / XXXXXXX /'|      /'                     "<<endl;
+cout<<"    / XXXXXXX /  |     /'                      "<<endl;
+cout<<"   / XXXXXXX /'-------'                        "<<endl;
+cout<<"  / XXXXXXX /                                  "<<endl;
+cout<<" / XXXXXXX /                                   "<<endl;
+cout<<"(---------(                                    "<<endl;
+cout<<" '------'                                      "<<endl;
+return 0;
+}

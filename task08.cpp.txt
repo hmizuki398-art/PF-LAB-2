@@ -1,0 +1,9 @@
+include<iostream>
+using namespace std;
+int main()
+{system ("color 0D");
+cout<<"================================================================"<<endl<<endl;
+cout<<"UNIVERSITY         ADMISSION"<<endl<<MANAGEMENT       SYSTEM"<<endl<<endl;
+cout<<"================================================================"<<endl;
+return 0;
+}

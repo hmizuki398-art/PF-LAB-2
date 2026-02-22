@@ -1,0 +1,15 @@
+include<iostream>
+using namespace std;
+int main()
+{
+cout<<"=========================================="<<endl<<endl;
+cout<<"           BEAUTY    SALON                "<<endl;
+cout<<"=========================================="<<endl<<endl;
+cout<<"            MATHS     QUIZ                "<<endl;
+cout<<"                 +-/x                     "<<endl<<endl;
+cout<<"*******************************************"<<endl;
+return 0;
+}
+
+
+
