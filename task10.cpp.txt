@@ -1,0 +1,12 @@
+include<iostream>
+using namespace std;
+int main()
+{
+cout<<"-----------------------------"<<endl<<end;
+cout<<"     o   ^ ___ ^             "<<endl<<end;
+cout<<"      o   (oo)\__________    "<<endl<<end;
+cout<<"          (__)\         )\/\ "<<endl<<end;
+cout<<"             ||-----w   |    "<<endl<<end;
+cout<<"             ||        ||    "<<endl<<end;
+return 0;
+}

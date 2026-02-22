@@ -1,0 +1,12 @@
+include<iostream>
+using namespace std;
+int main()
+{
+cout<<"=========================================="<<endl;
+cout<<"|                                        |"<<endl;
+cout<<"| POINT                            SALES |"<<endl;
+cout<<"| OF                          APPLICATION|"<<endl;
+cout<<"|                                        |"<<endl;
+cout<<"=========================================="<<endl;
+retyrn 0;
+}
